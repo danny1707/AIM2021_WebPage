@@ -1,0 +1,18 @@
+<template>
+    <v-parallax
+      dark
+      v-bind:src="'http://aimoficial.com/images/Home/ini_4.png'"
+      height="720"
+    >
+      <v-row
+        align="center"
+        justify="center"
+      >
+        <v-col
+          class=""
+          cols="12"
+        >
+        </v-col>
+      </v-row>
+    </v-parallax>
+</template>
